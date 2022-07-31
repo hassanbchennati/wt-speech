@@ -2,5 +2,13 @@ gunicorn
 flask
 SpeechRecognition
 werkzeug==2.0.3
-libasound
-pocketsphinx
+p5py
+PEP517
+pkgconfig
+scipy
+setuptools
+pyaudio
+formulas
+cdifflib
+openpyxl
+numpy
